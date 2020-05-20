@@ -1,0 +1,5 @@
+[
+    {"id": 1, "name": "Larry", "grades": {"math": "A", "Science": "A", "English": "A"}},
+    {"id": 2, "name": "Arther", "grades": {"math": "C", "Science": "C", "English": "C"} },
+    {"id": 3, "name": "Trillian", "grades": {"math": "A", "Science": "A", "English": "A"}}
+]
